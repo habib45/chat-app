@@ -1,0 +1,39 @@
+#root {
+ border: 1px #CCC solid;
+}
+
+.main-div {
+    /* padding: 0px !important; */
+}
+
+.sid_bar {
+    min-height: 600px !important;
+    border-right: 1px #EEE solid;
+    border: 1px #EEE solid;
+    text-align: left !important;
+    background-color: #013f60;
+    color: #FFF;
+}
+
+.friend_user_list ul li {
+    height: 40px !important;
+}
+
+.media {
+    padding: 3px;
+}
+
+.profile-list:hover {
+    /* border: 1px #CCC solid; */
+    background-color: #023045;
+    padding: 4px;
+    border-radius: 5px;
+
+}
+
+.profile_image {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 4px rgb(2, 49, 29) solid;
+}
